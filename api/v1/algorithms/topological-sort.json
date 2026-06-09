@@ -1,0 +1,1 @@
+{"id": "topological-sort", "name": "Topological Sort", "category": "tree", "description": "Linear ordering of a DAG — build systems and dependency graphs (SWE).", "complexity": {"time_best": "O(V + E)", "time_average": "O(V + E)", "time_worst": "O(V + E)", "space": "O(V)", "stable": null}}

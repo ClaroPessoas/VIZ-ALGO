@@ -1,0 +1,1 @@
+{"id": "rabin-karp", "name": "Rabin-Karp", "category": "string", "description": "Rolling-hash substring search — CLRS Ch32, plagiarism detection.", "complexity": {"time_best": "O(n + m)", "time_average": "O(n + m)", "time_worst": "O(n m)", "space": "O(1)", "stable": null}}

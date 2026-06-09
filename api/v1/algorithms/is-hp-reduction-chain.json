@@ -1,0 +1,1 @@
+{"id": "is-hp-reduction-chain", "name": "IS → Hamiltonian Path Chain", "category": "np-concept", "description": "Reduction chain from Independent Set to Hamiltonian Path gadget — CLRS Ch34.", "complexity": {"time_best": "O(V + E)", "time_average": "O(V + E)", "time_worst": "O(V + E)", "space": "O(V + E)", "stable": null}}

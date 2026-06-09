@@ -1,0 +1,1 @@
+{"id": "selection-sort", "name": "Selection Sort", "category": "sort", "description": "Repeatedly selects the smallest element and moves it forward.", "complexity": {"time_best": "O(n²)", "time_average": "O(n²)", "time_worst": "O(n²)", "space": "O(1)", "stable": false}}

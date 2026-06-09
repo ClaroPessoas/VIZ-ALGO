@@ -1,0 +1,1 @@
+{"id": "fft-complex-cooley-tukey", "name": "Complex Cooley-Tukey FFT", "category": "divide-and-conquer", "description": "Complex-domain FFT with real/imag trace arrays and full twiddle multiply — CLRS Ch30.", "complexity": {"time_best": "O(n log n)", "time_average": "O(n log n)", "time_worst": "O(n log n)", "space": "O(n)", "stable": null}}

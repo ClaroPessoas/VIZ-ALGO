@@ -1,0 +1,1 @@
+{"id": "prim", "name": "Prim (MST)", "category": "tree", "description": "Minimum spanning tree for network design and clustering.", "complexity": {"time_best": "O(E log V)", "time_average": "O(E log V)", "time_worst": "O(E log V)", "space": "O(V)", "stable": null}}

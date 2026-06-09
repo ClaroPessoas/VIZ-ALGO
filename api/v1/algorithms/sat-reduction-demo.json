@@ -1,0 +1,1 @@
+{"id": "sat-reduction-demo", "name": "3-SAT → IS Reduction", "category": "np-concept", "description": "Clause gadget graph for 3-SAT to Independent Set reduction — NP-completeness demo, CLRS Ch34.", "complexity": {"time_best": "O(V + E)", "time_average": "O(V + E)", "time_worst": "O(V + E)", "space": "O(V + E)", "stable": null}}

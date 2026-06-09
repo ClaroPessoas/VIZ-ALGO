@@ -1,0 +1,1 @@
+{"id": "two-opt-tsp", "name": "2-opt TSP Heuristic", "category": "np-concept", "description": "Local search by edge reversal until no improving 2-opt move — engineering TSP heuristic.", "complexity": {"time_best": "O(V²)", "time_average": "O(V²)", "time_worst": "O(V² · passes)", "space": "O(V)", "stable": null}}

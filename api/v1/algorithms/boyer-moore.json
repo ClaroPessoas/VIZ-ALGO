@@ -1,0 +1,1 @@
+{"id": "boyer-moore", "name": "Boyer-Moore", "category": "string", "description": "Right-to-left search with bad-character rule — CLRS Ch32, fast text search.", "complexity": {"time_best": "O(n / m)", "time_average": "O(n)", "time_worst": "O(n m)", "space": "O(σ)", "stable": null}}

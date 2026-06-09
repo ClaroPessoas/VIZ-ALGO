@@ -1,0 +1,1 @@
+{"id": "counting-sort", "name": "Counting Sort", "category": "sort", "description": "Non-comparison sort using frequency counts — CLRS Ch8, bounded integer keys.", "complexity": {"time_best": "O(n + k)", "time_average": "O(n + k)", "time_worst": "O(n + k)", "space": "O(k)", "stable": true}}

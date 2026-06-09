@@ -1,0 +1,1 @@
+{"id": "kruskal", "name": "Kruskal (MST)", "category": "tree", "description": "MST via Union-Find — cable layout, cluster linking (SWE).", "complexity": {"time_best": "O(E log E)", "time_average": "O(E log E)", "time_worst": "O(E log E)", "space": "O(V)", "stable": null}}

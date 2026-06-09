@@ -1,0 +1,1 @@
+{"id": "sat-tsp-reduction-chain", "name": "3-SAT → … → TSP Chain", "category": "np-concept", "description": "Unified multi-hop reduction from 3-SAT through IS, HP, HC to TSP — CLRS Ch34.", "complexity": {"time_best": "O(V + E)", "time_average": "O(V + E)", "time_worst": "O(V + E)", "space": "O(V + E)", "stable": null}}

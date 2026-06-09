@@ -1,0 +1,1 @@
+{"id": "tarjan-scc", "name": "Tarjan SCC", "category": "graph-advanced", "description": "Strongly connected components — compilers, graph theory, CLRS Ch22.", "complexity": {"time_best": "O(V + E)", "time_average": "O(V + E)", "time_worst": "O(V + E)", "space": "O(V)", "stable": null}}

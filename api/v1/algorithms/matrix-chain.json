@@ -1,0 +1,1 @@
+{"id": "matrix-chain", "name": "Matrix Chain Multiplication", "category": "dynamic-programming", "description": "Optimal parenthesization — DP over chain length, CLRS Ch15 / divide-and-conquer crossover.", "complexity": {"time_best": "O(n³)", "time_average": "O(n³)", "time_worst": "O(n³)", "space": "O(n²)", "stable": null}}

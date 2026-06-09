@@ -1,0 +1,1 @@
+{"id": "activity-selection", "name": "Activity Selection", "category": "greedy", "description": "Maximum non-overlapping intervals — scheduling, CLRS Ch16.", "complexity": {"time_best": "O(n log n)", "time_average": "O(n log n)", "time_worst": "O(n log n)", "space": "O(1)", "stable": null}}

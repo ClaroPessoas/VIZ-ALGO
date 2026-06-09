@@ -1,0 +1,1 @@
+{"id": "fft-cooley-tukey", "name": "Cooley-Tukey FFT", "category": "divide-and-conquer", "description": "Radix-2 FFT with explicit twiddle factors W_n^k — CLRS Ch30.", "complexity": {"time_best": "O(n log n)", "time_average": "O(n log n)", "time_worst": "O(n log n)", "space": "O(n)", "stable": null}}

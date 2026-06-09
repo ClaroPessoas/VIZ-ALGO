@@ -1,0 +1,1 @@
+{"id": "christofides-tsp", "name": "Christofides TSP", "category": "np-concept", "description": "1.5-approximation via MST, odd matching, and tour shortcut — metric TSP (Garey–Johnson).", "complexity": {"time_best": "O(V² log V)", "time_average": "O(V² log V)", "time_worst": "O(V² log V)", "space": "O(V + E)", "stable": null}}

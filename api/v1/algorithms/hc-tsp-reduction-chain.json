@@ -1,0 +1,1 @@
+{"id": "hc-tsp-reduction-chain", "name": "HC → TSP Gadget Chain", "category": "np-concept", "description": "Hamiltonian Cycle to metric TSP gadget (weight 1 vs M) — CLRS Ch34 / Garey–Johnson.", "complexity": {"time_best": "O(V + E)", "time_average": "O(V + E)", "time_worst": "O(V + E)", "space": "O(V + E)", "stable": null}}

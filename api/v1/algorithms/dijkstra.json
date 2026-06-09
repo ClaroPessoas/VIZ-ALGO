@@ -1,0 +1,1 @@
+{"id": "dijkstra", "name": "Dijkstra", "category": "shortest-path", "description": "Single-source shortest paths on non-negative weighted graphs (network routing).", "complexity": {"time_best": "O((V + E) log V)", "time_average": "O((V + E) log V)", "time_worst": "O((V + E) log V)", "space": "O(V)", "stable": null}}

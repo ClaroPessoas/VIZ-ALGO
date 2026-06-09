@@ -1,0 +1,1 @@
+{"id": "sat-hp-reduction-chain", "name": "3-SAT → IS → HP Chain", "category": "np-concept", "description": "Reduction chain from 3-SAT through Independent Set to Hamiltonian Path — CLRS Ch34.", "complexity": {"time_best": "O(V + E)", "time_average": "O(V + E)", "time_worst": "O(V + E)", "space": "O(V + E)", "stable": null}}

@@ -1,0 +1,1 @@
+{"id": "insertion-sort", "name": "Insertion Sort", "category": "sort", "description": "Builds a sorted prefix by inserting each element into place.", "complexity": {"time_best": "O(n)", "time_average": "O(n²)", "time_worst": "O(n²)", "space": "O(1)", "stable": true}}

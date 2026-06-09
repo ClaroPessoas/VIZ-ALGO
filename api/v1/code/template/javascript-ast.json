@@ -1,0 +1,1 @@
+{"language": "javascript", "use_ast": true, "code": "function sort(arr) {\n  const n = arr.length;\n  for (let i = 0; i < n; i++) {\n    for (let j = 0; j < n - i - 1; j++) {\n      if (arr[j] > arr[j + 1]) {\n        const t = arr[j];\n        arr[j] = arr[j + 1];\n        arr[j + 1] = t;\n      }\n    }\n  }\n}\n\nsort(arr);\n"}

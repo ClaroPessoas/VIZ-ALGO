@@ -1,0 +1,1 @@
+{"id": "a-star", "name": "A* Search", "category": "shortest-path", "description": "Heuristic shortest path — game AI, maps, and pathfinding.", "complexity": {"time_best": "O(E)", "time_average": "O(E log V)", "time_worst": "O(E log V)", "space": "O(V)", "stable": null}}

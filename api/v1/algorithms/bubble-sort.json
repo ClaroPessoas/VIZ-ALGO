@@ -1,0 +1,1 @@
+{"id": "bubble-sort", "name": "Bubble Sort", "category": "sort", "description": "Adjacent elements are repeatedly swapped when out of order.", "complexity": {"time_best": "O(n)", "time_average": "O(n²)", "time_worst": "O(n²)", "space": "O(1)", "stable": true}}

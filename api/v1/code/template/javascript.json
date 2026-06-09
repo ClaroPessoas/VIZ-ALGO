@@ -1,0 +1,1 @@
+{"language": "javascript", "use_ast": false, "code": "function sort(arr) {\n  const n = arr.length;\n  for (let i = 0; i < n; i++) {\n    for (let j = 0; j < n - i - 1; j++) {\n      if (vizCompare(j, j + 1)) {\n        vizSwap(j, j + 1);\n      }\n    }\n  }\n}\n\nsort(arr);\n"}

@@ -1,0 +1,1 @@
+{"id": "knapsack-01", "name": "0/1 Knapsack", "category": "dynamic-programming", "description": "Optimal subset with capacity — resource allocation, CLRS Ch15.", "complexity": {"time_best": "O(n W)", "time_average": "O(n W)", "time_worst": "O(n W)", "space": "O(n W)", "stable": null}}

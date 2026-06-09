@@ -1,0 +1,1 @@
+{"id": "heap-sort", "name": "Heap Sort", "category": "sort", "description": "Builds a max-heap and repeatedly extracts the largest element.", "complexity": {"time_best": "O(n log n)", "time_average": "O(n log n)", "time_worst": "O(n log n)", "space": "O(1)", "stable": false}}

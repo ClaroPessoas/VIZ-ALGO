@@ -1,0 +1,1 @@
+{"id": "ford-fulkerson", "name": "Ford-Fulkerson", "category": "graph-advanced", "description": "Max-flow via augmenting paths (Edmonds-Karp BFS) — network flow, CSC373 / CLRS Ch26.", "complexity": {"time_best": "O(V E²)", "time_average": "O(V E²)", "time_worst": "O(V E U)", "space": "O(V + E)", "stable": null}}

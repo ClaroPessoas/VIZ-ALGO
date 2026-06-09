@@ -1,0 +1,1 @@
+{"language": "python", "use_ast": false, "code": "def sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n - i - 1):\n            if viz_compare(j, j + 1):\n                viz_swap(j, j + 1)\n\nsort(arr)\n"}

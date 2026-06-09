@@ -1,0 +1,1 @@
+{"id": "quick-sort", "name": "Quick Sort", "category": "sort", "description": "Partitions around a pivot and recursively sorts subarrays.", "complexity": {"time_best": "O(n log n)", "time_average": "O(n log n)", "time_worst": "O(n²)", "space": "O(log n)", "stable": false}}

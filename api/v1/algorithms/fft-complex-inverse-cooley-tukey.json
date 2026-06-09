@@ -1,0 +1,1 @@
+{"id": "fft-complex-inverse-cooley-tukey", "name": "Inverse Complex Cooley-Tukey FFT", "category": "divide-and-conquer", "description": "Inverse complex FFT with conjugate twiddles and 1/n scaling on real/imag — CLRS Ch30.", "complexity": {"time_best": "O(n log n)", "time_average": "O(n log n)", "time_worst": "O(n log n)", "space": "O(n)", "stable": null}}

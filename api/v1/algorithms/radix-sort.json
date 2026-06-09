@@ -1,0 +1,1 @@
+{"id": "radix-sort", "name": "Radix Sort", "category": "sort", "description": "LSD radix sort by digit — CLRS Ch8, non-comparison stable sort.", "complexity": {"time_best": "O(d(n + k))", "time_average": "O(d(n + k))", "time_worst": "O(d(n + k))", "space": "O(n + k)", "stable": true}}

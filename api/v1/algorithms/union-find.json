@@ -1,0 +1,1 @@
+{"id": "union-find", "name": "Union-Find", "category": "data-structure", "description": "Disjoint-set union with path compression — Kruskal, connectivity (SWE).", "complexity": {"time_best": "O(α(n))", "time_average": "O(α(n))", "time_worst": "O(α(n))", "space": "O(V)", "stable": null}}

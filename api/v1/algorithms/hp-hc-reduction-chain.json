@@ -1,0 +1,1 @@
+{"id": "hp-hc-reduction-chain", "name": "HP → Hamiltonian Cycle Chain", "category": "np-concept", "description": "Reduction chain from Hamiltonian Path to Hamiltonian Cycle via closing gadget — CLRS Ch34.", "complexity": {"time_best": "O(V + E)", "time_average": "O(V + E)", "time_worst": "O(V + E)", "space": "O(V + E)", "stable": null}}

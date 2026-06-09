@@ -1,0 +1,1 @@
+{"id": "floyd-warshall", "name": "Floyd-Warshall", "category": "shortest-path", "description": "All-pairs shortest paths — network topology and routing tables.", "complexity": {"time_best": "O(V³)", "time_average": "O(V³)", "time_worst": "O(V³)", "space": "O(V²)", "stable": null}}

@@ -1,0 +1,1 @@
+{"id": "linear-search", "name": "Linear Search", "category": "search", "description": "Scans each element until the target is found.", "complexity": {"time_best": "O(1)", "time_average": "O(n)", "time_worst": "O(n)", "space": "O(1)", "stable": null}}
